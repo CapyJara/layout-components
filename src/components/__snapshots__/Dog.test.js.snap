@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`header renders a Dog 1`] = `
+<dl>
+  <dt>
+    Name
+  </dt>
+  <dd>
+    Spot
+  </dd>
+  <dt>
+    Age
+  </dt>
+  <dd>
+    10
+  </dd>
+  <dt>
+    Weight
+  </dt>
+  <dd>
+    50 lbs
+  </dd>
+</dl>
+`;

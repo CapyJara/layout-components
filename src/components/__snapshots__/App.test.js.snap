@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`header renders a Dog 1`] = `
+<Fragment>
+  <Header />
+  <Dog />
+</Fragment>
+`;
