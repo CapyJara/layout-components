@@ -1,0 +1,11 @@
+.dogs {
+  color: greenyellow;
+
+  li {
+    background-color:  darkgreen;
+
+    &:hover {
+      background-color: hotpink;
+    }
+  }
+}
