@@ -4,7 +4,7 @@ const hexFromColor = color => {
   return `${color.toString(16).padStart(2, 0)}`.toUpperCase();
 };
 
-const hexFromRGB = (rbg) => {
+const hexFromRGB = (rgb) => {
   return `#${hexFromColor(rgb.red)}${hexFromColor(rgb.green)}${hexFromColor(rgb.blue)}`;
 };
 
